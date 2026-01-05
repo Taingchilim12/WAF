@@ -9,7 +9,7 @@ pre = "<b>2.1. </b>"
 
 1. Go to [**S3 service management interface**](https://s3.console.aws.amazon.com/s3/).
 * Click **Create bucket**.
-![Create S3](images/2-prepare/2.1-creates3/creates3-001.png?featherlight=false&width=90px)
+![Create S3](/images/2-prepare/2.1-creates3/creates3-001.png?featherlight=false&width=90px)
 2. Name our s3 bucket ```aws-waf-logs-001```.
 {{% notice tip %}} 
 You can change the suffix number after the example *aws-waf-logs-002* because the s3 bucket name must not be duplicated.
