@@ -1,4 +1,6 @@
 baseURL = "https://taingchilim12.github.io/WAF/"
+canonifyURLs = true
+relativeURLs = true
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
