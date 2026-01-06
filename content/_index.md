@@ -1,6 +1,6 @@
 +++
 title = "AWS Web Application Firewall"
-date = 2021
+date = 2025
 weight = 1
 chapter = false
 +++
